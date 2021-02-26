@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+
+}
+
+#height {
+  color: red;
+}
+#email {
+  color: orange;
+}
+
+#person {
+
+  background-color: lightgray;
+
+}
+#weather {
+
+  background-color: lightskyblue;
+
+}
